@@ -9,6 +9,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
+      - [Desktop view](#desktop-view)
+      - [Mobile view](#mobile-view)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -22,13 +24,16 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
+#### Desktop view
 ![](./public/Desktop.png)
+
+#### Mobile view
 ![](./public/Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/hemantsirsat/challenge-3)
+- Live Site URL: (https://challenge-3-eta.vercel.app/)
 
 ## My process
 
